@@ -1,0 +1,24 @@
+{
+    "Name": "Region-specific uncoupling of oxygen and glucose metabolism in the human cortex during visual stimulation",
+    "BIDSVersion": "1.11.1",
+    "License": "CC0",
+    "Authors": [
+        "Samira Maria Epp",
+        "Antonia Bose",
+        "Roman Belenya",
+        "Katarzyna Kurcyus",
+        "Eric Ceballos Dominguez",
+        "Andreas Ranft",
+        "Eliana Salas Villa",
+        "Moritz Bursche",
+        "Igor Yakushev",
+        "Christine Preibisch",
+        "Gabriel Castrillon",
+        "Valentin Riedl"
+    ],
+    "Funding": [
+        "European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme. Grant agreement ID 759659"
+    ],
+    "HowToAcknowledge": "Epp, S.M. & Bose, A.,... Castrillon, G. & Riedl V. \"Region-specific uncoupling of oxygen and glucose metabolism in the human cortex during visual stimulation\". BioRxiv (2026): 10.1101/2024.10.11.617828",
+    "DatasetDOI": "doi:10.18112/openneuro.ds008786.v1.0.1"
+}

@@ -1,0 +1,21 @@
+{
+    "PlasmaAvail": true,
+    "WholeBloodAvail": true,
+    "MetaboliteAvail": false,
+    "MetaboliteRecoveryCorrectionApplied": false,
+    "DispersionCorrected": false,
+    "Hematocrit": 0.42,
+    "Glucose": 4.56,
+    "time": {
+        "Description": "Time in relation to time zero defined by the _pet.json",
+        "Units": "s"
+    },
+    "whole_blood_radioactivity": {
+        "Description": "Radioactivity in whole blood samples. Measured using Twilite counter.",
+        "Units": "Bq"
+    },
+    "plasma_radioactivity": {
+        "Description": "Radioactivity in plasma component. Calculated using three-sponential Feng function fit.",
+        "Units": "Bq/mL"
+    }
+}
